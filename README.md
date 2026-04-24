@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> زعلت مني ليه والقلب داب في هواك
+> آه يا حبيبي
+> روحي بتسألني إمتى أكون وياك
+> أكون وياك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
