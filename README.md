@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/z3elt-menni-leih-why-did-you-get-upset-with-me/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Secure Licensing Rights for Z3elt Menni Leih – Why did you get upset with me?](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Z3elt Menni Leih – Why did you get upset with me?](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
