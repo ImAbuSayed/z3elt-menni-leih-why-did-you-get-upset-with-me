@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Z3elt Menni Leih – Why did you get upset with me?
+
+This log tracks the cryptographic history and versioning for the song **Z3elt Menni Leih – Why did you get upset with me?** (z3elt-menni-leih-why-did-you-get-upset-with-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:12:07.923667 | `v1` | `a6e9417183a0037530bff339577b101f9d6a5788bc783721819833ce784bd662` | `15f0e6cd56096757b4dfc8191ae5e4018b79eb139e0c4ede38de8ef1e8ce0544` | `2026-05-09_z3elt-menni-leih-why-did-you-get-upset-with-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
